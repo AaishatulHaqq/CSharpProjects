@@ -1,0 +1,16 @@
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ChapterEight.csproj.AssemblyReference.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ChapterEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ChapterEight.AssemblyInfoInputs.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ChapterEight.AssemblyInfo.cs
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ChapterEight.csproj.CoreCompileInputs.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\bin\Debug\net5.0\ChapterEight.exe
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\bin\Debug\net5.0\ChapterEight.deps.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\bin\Debug\net5.0\ChapterEight.runtimeconfig.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\bin\Debug\net5.0\ChapterEight.runtimeconfig.dev.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\bin\Debug\net5.0\ChapterEight.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\bin\Debug\net5.0\ref\ChapterEight.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\bin\Debug\net5.0\ChapterEight.pdb
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ChapterEight.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ref\ChapterEight.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ChapterEight.pdb
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterEight\obj\Debug\net5.0\ChapterEight.genruntimeconfig.cache

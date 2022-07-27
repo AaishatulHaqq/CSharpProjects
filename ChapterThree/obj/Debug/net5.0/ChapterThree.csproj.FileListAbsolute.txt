@@ -1,0 +1,16 @@
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ChapterThree.csproj.AssemblyReference.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ChapterThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ChapterThree.AssemblyInfoInputs.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ChapterThree.AssemblyInfo.cs
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ChapterThree.csproj.CoreCompileInputs.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\bin\Debug\net5.0\ChapterThree.exe
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\bin\Debug\net5.0\ChapterThree.deps.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\bin\Debug\net5.0\ChapterThree.runtimeconfig.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\bin\Debug\net5.0\ChapterThree.runtimeconfig.dev.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\bin\Debug\net5.0\ChapterThree.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\bin\Debug\net5.0\ref\ChapterThree.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\bin\Debug\net5.0\ChapterThree.pdb
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ChapterThree.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ref\ChapterThree.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ChapterThree.pdb
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterThree\obj\Debug\net5.0\ChapterThree.genruntimeconfig.cache

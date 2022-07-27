@@ -1,0 +1,16 @@
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\bin\Debug\net5.0\ChapterTwo.exe
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\bin\Debug\net5.0\ChapterTwo.deps.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\bin\Debug\net5.0\ChapterTwo.runtimeconfig.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\bin\Debug\net5.0\ChapterTwo.runtimeconfig.dev.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\bin\Debug\net5.0\ChapterTwo.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\bin\Debug\net5.0\ref\ChapterTwo.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\bin\Debug\net5.0\ChapterTwo.pdb
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ChapterTwo.csproj.AssemblyReference.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ChapterTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ChapterTwo.AssemblyInfoInputs.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ChapterTwo.AssemblyInfo.cs
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ChapterTwo.csproj.CoreCompileInputs.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ChapterTwo.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ref\ChapterTwo.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ChapterTwo.pdb
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterTwo\obj\Debug\net5.0\ChapterTwo.genruntimeconfig.cache

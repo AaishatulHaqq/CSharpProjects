@@ -1,0 +1,16 @@
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ChapterSeven.csproj.AssemblyReference.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ChapterSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ChapterSeven.AssemblyInfoInputs.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ChapterSeven.AssemblyInfo.cs
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ChapterSeven.csproj.CoreCompileInputs.cache
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\bin\Debug\net5.0\ChapterSeven.exe
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\bin\Debug\net5.0\ChapterSeven.deps.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\bin\Debug\net5.0\ChapterSeven.runtimeconfig.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\bin\Debug\net5.0\ChapterSeven.runtimeconfig.dev.json
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\bin\Debug\net5.0\ChapterSeven.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\bin\Debug\net5.0\ref\ChapterSeven.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\bin\Debug\net5.0\ChapterSeven.pdb
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ChapterSeven.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ref\ChapterSeven.dll
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ChapterSeven.pdb
+C:\Users\Arusim Groceries\Desktop\CSharpProjects\ChapterSeven\obj\Debug\net5.0\ChapterSeven.genruntimeconfig.cache
