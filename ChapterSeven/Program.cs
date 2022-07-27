@@ -140,9 +140,9 @@ namespace ChapterSeven
 			for (int r = 0; r < arrayLength; r++) 
 			{
 				Console.Write ("Enter Element[{0}] : ", r);
-				arrayElements[i] = int.Parse (Console.ReadLine ());
+				arrayElements[r] = int.Parse (Console.ReadLine ());
 			}
-
+            
 
 
         

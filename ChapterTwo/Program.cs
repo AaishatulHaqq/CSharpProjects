@@ -72,7 +72,7 @@ namespace ChapterTwo
           string firstWord = "Hello ";
           string secondWord = "World";
           object concat = String.Concat(firstWord, secondWord);
-          string result = concatenation.ToString();
+          string result = concat.ToString();
           Console.Write(result);
           Console.WriteLine();
 

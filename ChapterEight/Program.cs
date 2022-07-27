@@ -40,7 +40,13 @@ namespace ChapterEight
             Console.WriteLine();
 
             /*2. Convert the number 1111010110011110(2) to hexadecimal and decimalnumeral systems.*/
-             
+            long bNo = 1111010110011110;
+            string numberInBinary = bNo.ToString();
+            long inBinary =  Convert.ToInt64(numberInBinary, 2);
+            string toDecimal = Convert.ToString(inBinary, 10);
+           // string toHexaDecimal = Convert.ToString(toDecimal, "X");
+            Console.WriteLine($"1111010110011110 to decimal is {toDecimal}");
+           
 
             /*3. Convert the hexadecimal numbers FA, 2A3E, FFFF, 5A0E9 to binary and decimal numeral systems.*/
             Console.WriteLine(" Question 3 ");
@@ -88,6 +94,39 @@ namespace ChapterEight
                 Console.Write(hexadecimalNumber[k]);
              }
              Console.WriteLine();
+
+             //7. Write a program that converts a hexadecimal number to decimal one.
+             Console.WriteLine(" Question 7 ");
+             Console.Write("Enter hexadecimal number: ");
+             string hexaDeci = Console.ReadLine();
+             Console.WriteLine("{0} to decimal is {1}.", hexaDeci, Convert.ToInt32(hexaDeci, 16));
+             Console.WriteLine();
+
+             //8. Write a program that converts a hexadecimal number to binary one.
+              Console.WriteLine(" Question 8 ");
+              Console.Write("Enter hexadecimal number: ");
+              string base16 = Console.ReadLine();
+              Console.WriteLine("{0} to binary is {1}.", base16, Convert.ToString(Convert.ToInt32(base16, 16), 2));
+              Console.WriteLine();
+
+             //9. Write a program that converts a binary number to hexadecimal one.
+              Console.WriteLine(" Question 9 ");
+              Console.Write("Enter binary number : ");
+              string base2 = Console.ReadLine();
+              Console.WriteLine("{0} to hexadecimal is {1}.", base2, Convert.ToInt32(base2, 2).ToString("X"));
+              Console.WriteLine();
+
+              //10. Write a program that converts a binary number to decimal using the Horner scheme.
+              /*Console.WriteLine(" Question 10 ");
+              int numberinBaseTwo = 1001; 
+              int solveToBaseTen = (((1 * 2 + 0) * 2 + 0) * 2 + 1 = 2 * 2 * 2 + 1);
+              Console.WriteLine($"{numberinBaseTwo} in binary is {solveToBaseTen} in decimal");*/
+        
+
+
+
+
+
 
 
 
