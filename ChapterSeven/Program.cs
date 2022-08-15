@@ -11,12 +11,8 @@ namespace ChapterSeven
            int [] integers = new int [20];
            for(int i = 0; i < integers.Length; i++)
            {
-               Console.Write("Enter Element[{0}] = ", i);
-               integers[i] = int.Parse(Console.ReadLine());
-           }
-           for(int i = 0; i < integers.Length; i++)
-           {
-               Console.Write($"{5 * integers[i]},");
+               integers[i] = i * 5;
+               Console.Write($"{integers[i]},");
            }
            Console.WriteLine();
 
@@ -26,7 +22,7 @@ namespace ChapterSeven
            int firstLength = int.Parse(Console.ReadLine());
            int [] firstArrayIntegers = new int [firstLength];
            int p;
-           for(p = 0; p < firstLength; p++)
+           for(p = 0; p < firstLength; p++)   
            {
                Console.Write("Enter Element[{0}] = ", p);
                firstArrayIntegers[p] = int.Parse(Console.ReadLine());
@@ -44,13 +40,20 @@ namespace ChapterSeven
            }
            Console.WriteLine();
            Console.WriteLine("******************");
-           if(firstLength != secondLength && firstArrayIntegers[p] != secondArrayIntegers[q])
+           if(firstLength == secondLength)
            {
-               Console.WriteLine("The two arrays are not equal");
+               if(firstArrayIntegers[p] == secondArrayIntegers[q])
+               {
+                   Console.WriteLine("The two arrays are equal");
+               }
+               if(firstArrayIntegers[p] != secondArrayIntegers[q])
+               {
+                   Console.WriteLine("The two arrays are not equal");
+               }
            }
            else
            {
-               Console.WriteLine("The two arrays are equal");
+               Console.WriteLine("The two arrays are not equal");
            }
            Console.WriteLine();
 
@@ -100,12 +103,12 @@ namespace ChapterSeven
 			int length = int.Parse(Console.ReadLine ());
 			int [] arrayNumbers = new int [length];
 
-			for (int i = 0; i < length; i++) 
+			for(int i = 0; i < length; i++) 
 			{
-				Console.Write ("Enter Element[{0}] : ", i);
-				arrayNumbers[i] = int.Parse (Console.ReadLine ());
+				Console.Write("Enter Element[{0}] : ", i);
+				arrayNumbers[i] = int.Parse(Console.ReadLine());
 			}
-            for (int i = 0; i < length - 1; i++) 
+            for(int i = 0; i < length - 1; i++) 
 			{
                 if (arrayNumbers[i] == arrayNumbers[i + 1]) 
                 {
@@ -129,19 +132,19 @@ namespace ChapterSeven
             Console.WriteLine();
 
             /*5. Write a program, which finds the maximal sequence of consecutively placed increasing integers. Example: {3, 2, 3, 4, 2, 2, 4}  {2, 3, 4}.*/
-            Console.WriteLine(" Question 5 ");
-            int count = 1; 
-            int temporarycount = 1; 
-            int num = 0;
-            Console.Write("Enter The Length Of The Array : ");
-			int arrayLength = int.Parse(Console.ReadLine ());
-			int [] arrayElements = new int [arrayLength];
+            // Console.WriteLine(" Question 5 ");
+            // int count = 1; 
+            // int temporarycount = 1; 
+            // int num = 0;
+            // Console.Write("Enter The Length Of The Array : ");
+			// int arrayLength = int.Parse(Console.ReadLine ());
+			// int [] arrayElements = new int [arrayLength];
 
-			for (int r = 0; r < arrayLength; r++) 
-			{
-				Console.Write ("Enter Element[{0}] : ", r);
-				arrayElements[r] = int.Parse (Console.ReadLine ());
-			}
+			// for (int r = 0; r < arrayLength; r++) 
+			// {
+			// 	Console.Write ("Enter Element[{0}] : ", r);
+			// 	arrayElements[r] = int.Parse (Console.ReadLine ());
+			// }
             
 
 
